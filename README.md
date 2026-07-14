@@ -34,4 +34,4 @@ Computer Engineer and full-stack developer, aspiring cybersecurity & networking 
 | **[ProjectOS](https://github.com/Logic-Dell/project-os)** | Personal project management platform with kanban boards, activity heatmaps, and a terminal-inspired UI | React, Vite, Supabase |
 | **[Password Health Checker](https://github.com/Logic-Dell/password-health-checker)** | Security-focused app for evaluating password strength, with CSRF protection and rate limiting | Flask, Flask-WTF, Flask-Limiter |
 | **[Movie Discovery App](https://github.com/Logic-Dell/movie-app)** | Responsive movie browser with search and detail views | React, Tailwind CSS, TMDB API |
-| **[AI Stethoscope](https://github.com/Logic-Dell/ai_stethoscope_v2)** | An AI-enhanced stethoscope with real-time heart & lung sound analysis | 
+| **[AI Stethoscope](https://github.com/Logic-Dell/ai_stethoscope_v2)** | An AI-enhanced stethoscope with real-time heart & lung sound analysis | Tensorflowlite, ESP32, 1D-CNN |
