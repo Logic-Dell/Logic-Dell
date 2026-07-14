@@ -1,11 +1,12 @@
 # Hi, I'm Erasmus 👋
 
-Computer Engineer building full-stack products and AI-enhanced embedded systems.
+Computer Engineer and full-stack developer, aspiring cybersecurity & networking engineer — I build products end-to-end and love pulling systems apart to understand how they hold together (and how they break).
 
-- 🎓 Computer Engineering, Ghana Communication Technology University (2023 – 2026)
+- 🔭 Full-stack development across React/Next.js, Node/Express, and Python/Django
 - 🔬 Currently building an AI-enhanced stethoscope with real-time heart & lung sound analysis — an embedded ML thesis project (1D-CNN, TensorFlow Lite, ESP32)
 - 💻 Full-stack development across React/Next.js, Node/Express, and Python/Django
 - 🌱 Exploring TinyML and embedded systems
+- 🔐 Growing into cybersecurity & networking — security-conscious builds, digital forensics fundamentals, secure system design
 - 📫 Reach me: erasmusmills25@gmail.com · [LinkedIn](https://www.linkedin.com/in/erasmus-mills-20241b298/)
 
 ## Tech Stack
@@ -31,13 +32,6 @@ Computer Engineer building full-stack products and AI-enhanced embedded systems.
 |---|---|---|
 | **[Milbert Construction](https://github.com/Logic-Dell/milbert-construction)** | Full-stack company website with an animated public site, JWT-authenticated admin panel, and a dynamic CMS-connected content layer | Next.js, Express, Prisma, PostgreSQL, Cloudinary |
 | **[ProjectOS](https://github.com/Logic-Dell/project-os)** | Personal project management platform with kanban boards, activity heatmaps, and a terminal-inspired UI | React, Vite, Supabase |
-| **[Accountability Engine](https://github.com/Logic-Dell/accountability-engine)** | Habit/obligation-tracking system with XP/leveling and AI-assisted SMS reminders | Node.js, Express, SQLite, Next.js, Groq API |
 | **[Password Health Checker](https://github.com/Logic-Dell/password-health-checker)** | Security-focused app for evaluating password strength, with CSRF protection and rate limiting | Flask, Flask-WTF, Flask-Limiter |
 | **[Movie Discovery App](https://github.com/Logic-Dell/movie-app)** | Responsive movie browser with search and detail views | React, Tailwind CSS, TMDB API |
-
-*(Update these links to match your actual repo names once they're public.)*
-
-## GitHub Stats
-
-![Erasmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Logic-Dell&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logic-Dell&layout=compact&hide_border=true)
+| **[AI Stethoscope](https://github.com/Logic-Dell/ai_stethoscope_v2)** | An AI-enhanced stethoscope with real-time heart & lung sound analysis | 
